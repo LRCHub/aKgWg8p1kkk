@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Tumbling Dice",
+  "base_artist": "Little Dragon",
+  "createdAt": "2026-02-25T02:59:17.057909Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/01_Tumbling_Dice_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/02_Tumbling_Dice_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tumbling Dice - Live",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/03_Tumbling_Dice_-_Live_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tumbling Dice - Live / Remastered 2009",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/04_Tumbling_Dice_-_Live___Remastered_2009_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/05_Tumbling_Dice_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/06_Tumbling_Dice_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/07_Tumbling_Dice_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/08_Tumbling_Dice_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/09_Tumbling_Dice_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "Molly Hatchet",
+      "has_synced": false,
+      "path": "select/10_Tumbling_Dice_Molly_Hatchet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "Rolling Stones",
+      "has_synced": true,
+      "path": "select/11_Tumbling_Dice_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tumbling Dice",
+      "artist": "Rolling Stones",
+      "has_synced": true,
+      "path": "select/12_Tumbling_Dice_Rolling_Stones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tumbling Dice",
+      "artist": "Little Dragon",
+      "has_synced": false,
+      "path": "select/pl_01_Tumbling_Dice_Little_Dragon.txt"
+    }
+  ]
+}
